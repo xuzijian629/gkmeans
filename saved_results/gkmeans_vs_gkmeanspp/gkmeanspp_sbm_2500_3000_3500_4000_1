@@ -1,0 +1,5 @@
+loop: 2
+cost: 195241.0000000000
+dataset: data/sbm_2500_3000_3500_4000
+time: 359 msec
+accuracy: 0.7469230769

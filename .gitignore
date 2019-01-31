@@ -1,0 +1,10 @@
+/.vscode
+/data/*
+/tmp/*
+/result/*
+!/data/.gitkeep
+!/tmp/.gitkeep
+!/result/.gitkeep
+/**/tempCodeRunnerFile.cpp
+/sandbox
+a.out
